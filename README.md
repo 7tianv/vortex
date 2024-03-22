@@ -46,7 +46,7 @@ docker-compose up -f docker-compose.umami.yml
 
 ## Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjarvis2f%2Fvortex)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%27tianv%2Fvortex)
 
 # Development
 
